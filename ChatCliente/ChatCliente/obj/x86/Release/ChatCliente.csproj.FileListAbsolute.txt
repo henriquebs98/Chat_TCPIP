@@ -1,0 +1,15 @@
+C:\Users\re035888\Downloads\ChatCliente\ChatCliente\ChatCliente\bin\Release\ChatCliente.exe
+C:\Users\re035888\Downloads\ChatCliente\ChatCliente\ChatCliente\bin\Release\ChatCliente.pdb
+C:\Users\re035888\Downloads\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.frmCliente.resources
+C:\Users\re035888\Downloads\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.Properties.Resources.resources
+C:\Users\re035888\Downloads\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.csproj.GenerateResource.Cache
+C:\Users\re035888\Downloads\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.exe
+C:\Users\re035888\Downloads\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.pdb
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.exe
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.pdb
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\bin\Release\ChatCliente.exe
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\bin\Release\ChatCliente.pdb
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.frmCliente.resources
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.Properties.Resources.resources
+C:\Users\re035888\Desktop\ChatCliente\ChatCliente\ChatCliente\obj\x86\Release\ChatCliente.csproj.GenerateResource.Cache

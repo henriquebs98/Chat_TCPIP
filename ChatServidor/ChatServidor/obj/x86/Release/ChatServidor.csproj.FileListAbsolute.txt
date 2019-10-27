@@ -1,0 +1,16 @@
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\bin\Release\ChatServidor.exe
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\bin\Release\ChatServidor.pdb
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csprojResolveAssemblyReference.cache
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.Form1.resources
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.Properties.Resources.resources
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csproj.GenerateResource.Cache
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.exe
+C:\Users\re035888\Downloads\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.pdb
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.exe
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.pdb
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\bin\Release\ChatServidor.exe
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\bin\Release\ChatServidor.pdb
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csprojResolveAssemblyReference.cache
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.Form1.resources
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.Properties.Resources.resources
+C:\Users\re035888\Desktop\ChatServidor\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csproj.GenerateResource.Cache
